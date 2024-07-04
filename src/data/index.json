@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "As a proficient React developer, I specialize in creating dynamic, responsive user interfaces with a strong focus on performance and accessibility. My expertise includes state management with Redux and Context API, alongside experience in leveraging modern JavaScript features and CSS-in-JS libraries to build maintainable, scalable applications."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "As a backend developer, I excel in building robust and scalable server-side applications using Node.js and Express.js. My expertise includes developing secure RESTful APIs, efficient database management with MongoDB, and implementing authentication mechanisms to ensure data integrity and protection."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Mobile App Developer",
+      "description": "As a mobile app developer in Flutter, I excel in building high-performance, cross-platform mobile applications. My expertise includes creating responsive and visually appealing user interfaces, integrating efficient state management solutions, and ensuring smooth functionality across both iOS and Android platforms. I am dedicated to delivering seamless user experiences and maintaining code quality and scalability."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Database Developer",
+      "description": "As a database developer, I excel in designing and managing robust and efficient databases using MySQL, SQL, and MongoDB. My expertise includes optimizing database performance, implementing complex queries, and ensuring data integrity and security. I am dedicated to creating scalable database solutions that meet the demands of modern applications."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/app.png",
+      "title": "Complete It!",
+      "description": "I developed a Task Management app using Flutter and Firebase Database, allowing users to seamlessly add, delete, edit, and schedule tasks. The app features a user-friendly interface, real-time data synchronization, and efficient task scheduling to enhance productivity and organization.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/wpf.png",
+      "title": "FYP Management Desktop App",
+      "description": "I developed an FYP Management System for desktop using WPF and SQL Server as the database. The app allows users to create groups, conduct evaluations, and manage students, advisors, and projects. It offers a comprehensive solution for organizing and viewing all aspects of final year projects efficiently.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/winforms.png",
+      "title": "Lahore Bus Route System",
+      "description": "I developed a Lahore Bus Routing app for desktop using WinForms, which calculates and displays fares based on the distance between stations. Implemented using graph data structures, the app provides an efficient solution for navigating bus routes, determining travel costs, and finding the shortest distance from one area to another.",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
