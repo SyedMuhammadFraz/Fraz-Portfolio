@@ -711,6 +711,10 @@ input[type="checkbox"] {
     display: flex;
     z-index: 200;
   }
+  .navbar{
+    padding: 15px 30px;
+  }
+
   .navbar--items {
     display: flex;
   }
@@ -764,6 +768,15 @@ input[type="checkbox"] {
     text-align: center;
   }
 
+  .navbar{
+    padding: 15px 30px;
+  }
+
+  .navbar--logo {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
   .hero--section--title {
     font-size: 40px;
     line-height: 50px;
@@ -795,6 +808,16 @@ input[type="checkbox"] {
   .hero--section--title {
     font-size: 36px;
     line-height: 46px;
+  }
+
+  .navbar{
+    padding: 15px 30px;
+  }
+
+  .navbar--logo {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
   }
 
   .about--section--img > img{
@@ -835,6 +858,15 @@ input[type="checkbox"] {
     line-height: 42px;
   }
 
+  .navbar{
+    padding: 15px 30px;
+  }
+
+  .navbar--logo {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
   .hero--section-description {
     font-size: 16px;
     line-height: 26px;
