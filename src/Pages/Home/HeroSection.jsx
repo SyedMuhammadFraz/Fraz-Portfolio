@@ -16,13 +16,8 @@ export default function HeroSection() {
             integrate front-end and back-end technologies.
           </p>
         </div>
-        <a
-          href="https://mail.google.com/mail/?view=cm&fs=1&to=frazadobgd@gmail.com&su=Contact%20Us&body=Hello,%0D%0A%0D%0AI%20would%20like%20to%20get%20in%20touch%20with%20you."
-          target="_blank"
-          rel="noopener noreferrer"
-          class="btn btn-primary"
-        >
-          Get In Touch
+        <a href="./img/cv.pdf" class="btn btn-primary" download>
+          Download CV
         </a>
       </div>
       <div className="hero--section--img">
